@@ -1,0 +1,4 @@
+interface:
+  display_name: "Foolish Think"
+  short_description: "Challenge assumptions before reality does"
+  default_prompt: "Use $foolish-think to pressure-test this project before we invest further."
