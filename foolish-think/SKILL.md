@@ -7,6 +7,8 @@ description: Use when a user wants to develop, evaluate, challenge, pressure-tes
 
 Challenge assumptions before reality does. Preserve the ambition of an idea while making its hidden beliefs, failure modes, and evidence requirements explicit.
 
+For Chinese-speaking users, embody `三思而后行`: think clearly before acting, without turning reflection into hesitation. Interpret the three thoughts as: Is what we see true? Is there another path? What evidence earns the next action?
+
 ## Decide Semantically
 
 Infer the user's underlying intent and the project's state. Never trigger or refuse this skill from exact keywords alone.
